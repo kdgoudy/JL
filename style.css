@@ -28,6 +28,7 @@ p {
 .wonders {
   dispaly: block;
   margin: auto;
+  padding-bottom: 150px;
  }
 
 .valzod {
