@@ -16,8 +16,7 @@ h3 {
 body {
   padding: 45px;
   background-color: black;
-  
-  
+    
 }
 
 p {
@@ -29,8 +28,7 @@ p {
 .wonders {
   dispaly: block;
   margin: auto;
-  padding-bottom: 150px;
-}
+ }
 
 .valzod {
   dispaly: block;
